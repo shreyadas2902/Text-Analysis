@@ -1,4 +1,4 @@
-# Named Entity Recognition using spaCy
+#using spaCy
 
 import spacy
 import pandas as pd
