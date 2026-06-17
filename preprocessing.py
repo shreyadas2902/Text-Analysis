@@ -1,5 +1,4 @@
-# Text Preprocessing
-
+#Text Preprocessing
 import re
 import nltk
 import pandas as pd
@@ -35,7 +34,7 @@ def preprocess_dataframe(df, text_column):
 
 
 if __name__ == "__main__":
-    # Example with sample data
+    #Example 
     sample = pd.DataFrame({
         "review": [
             "This product is absolutely amazing, highly recommend!",
