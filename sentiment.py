@@ -1,5 +1,4 @@
-# Sentiment Classification using BERT
-
+#Sentiment Classification using BERT
 import pandas as pd
 from transformers import pipeline
 
