@@ -1,6 +1,6 @@
 # Text Analysis Pipeline
-
 End-to-end NLP pipeline for sentiment analysis, named entity recognition (NER), and topic modeling on unstructured text data.
+Project was done as a part of my course curriculum
 
 **Dataset:** Kaggle  
 **Tools:** Python, BERT, spaCy, NLTK, Gensim, Hugging Face Transformers
